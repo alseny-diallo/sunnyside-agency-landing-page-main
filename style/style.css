@@ -322,6 +322,9 @@ header,
   .main-section {
     grid-template-columns: 1fr 1fr;
   }
+  .card__title {
+    font-size: 2.5rem;
+  }
   .card:nth-child(2) {
     grid-column: 1/2;
     grid-row: 1/2;
