@@ -67,7 +67,7 @@ header .title {
   text-align: center;
   color: hsl(0deg, 0%, 100%);
   letter-spacing: 0.5rem;
-  font-weight: bold;
+  font-weight: 900;
   text-transform: uppercase;
   margin: 4rem auto;
 }
